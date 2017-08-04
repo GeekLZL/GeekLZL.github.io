@@ -1,0 +1,8 @@
+title: Geeklzl.GitHub.io
+description: Android paradise.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
